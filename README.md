@@ -2,4 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyxCHENYUXUAN)
 
-[查看HTML文件](path/to/your/file.html)
+```markdown
+<iframe src="path/to/your/file.html" width="100%" height="500px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
